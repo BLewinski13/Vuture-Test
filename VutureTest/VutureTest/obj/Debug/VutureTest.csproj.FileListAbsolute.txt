@@ -1,0 +1,10 @@
+C:\Users\dersu\source\repos\VutureTest\VutureTest\bin\Debug\VutureTest.exe.config
+C:\Users\dersu\source\repos\VutureTest\VutureTest\bin\Debug\VutureTest.exe
+C:\Users\dersu\source\repos\VutureTest\VutureTest\bin\Debug\VutureTest.pdb
+C:\Users\dersu\source\repos\VutureTest\VutureTest\obj\Debug\VutureTest.csprojResolveAssemblyReference.cache
+C:\Users\dersu\source\repos\VutureTest\VutureTest\obj\Debug\VutureTest.Form1.resources
+C:\Users\dersu\source\repos\VutureTest\VutureTest\obj\Debug\VutureTest.Properties.Resources.resources
+C:\Users\dersu\source\repos\VutureTest\VutureTest\obj\Debug\VutureTest.csproj.GenerateResource.Cache
+C:\Users\dersu\source\repos\VutureTest\VutureTest\obj\Debug\VutureTest.csproj.CoreCompileInputs.cache
+C:\Users\dersu\source\repos\VutureTest\VutureTest\obj\Debug\VutureTest.exe
+C:\Users\dersu\source\repos\VutureTest\VutureTest\obj\Debug\VutureTest.pdb
