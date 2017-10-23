@@ -53,12 +53,10 @@ namespace VutureTest
         {
             //Assigning textbox values to a string and making it lowercase
             string palindrome = txt_Function2.Text.ToLower();
-            //Deleting spaces, commas, dots etc from a string
+            //Deleting spaces 
             palindrome = Regex.Replace(palindrome, @"\s", "");
             palindrome = Regex.Replace(palindrome, @"’", "");
-            palindrome = Regex.Replace(palindrome, @".", "");
-            palindrome = Regex.Replace(palindrome, @",", "");
-            palindrome = Regex.Replace(palindrome, @"'", "");
+
             //Converting string to a array
             char[] reverseString = palindrome.ToCharArray();
             //Reversing the array
